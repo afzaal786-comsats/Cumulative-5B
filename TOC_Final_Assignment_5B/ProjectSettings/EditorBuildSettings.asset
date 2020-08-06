@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: e10bee119607e5d479353daf56436f1b
+  - enabled: 1
+    path: Assets/Scenes/Game_Menu.unity
+    guid: 471d954b2e4ccd44db58287e059ac51e
+  - enabled: 1
+    path: Assets/Scenes/Penguins.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Hummingbird/Scenes/FlowerIsland.unity
+    guid: 555fe6de5d41acb4eb3e012e881cb148
+  - enabled: 1
+    path: Assets/Scenes/MatchingParenthesis.unity
+    guid: 97de9594e76418541a988e0a7ed8c976
+  - enabled: 1
+    path: Assets/Scenes/Palindrome.unity
+    guid: 297efa41be4513344b9d5d59289ce81e
+  m_configObjects: {}
